@@ -27,7 +27,7 @@ body{
 
 }
 .container{
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 .clearfix{
@@ -66,3 +66,236 @@ body{
 .tr2{
     background-color: transparent;
 }
+.who-are img{
+    width: 100%;
+}
+.section2-img{
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.section2{
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    vertical-align:top;
+}
+.section2 h2{
+    padding-bottom: 3%;
+    font-size: 32px;
+
+}
+.section2 p{
+    padding-left: 9%;
+    line-height: 1.86em;
+}
+.who-are{
+    padding-top: 10%;
+}
+.we-care-list {
+    list-style: none; /* إزالة نقاط القائمة */
+    padding: 0;
+    margin: 0;
+}
+
+.we-care-list li {
+    display: block; /* يجعل كل عنصر في سطر منفصل */
+    margin-bottom: 10px; /* مسافة بين العناصر */
+
+}
+
+.we-care-list img {
+    width: 75px;
+    display: inline-block;
+    vertical-align: middle; /* محاذاة الصورة مع النص */
+}
+
+.we-care-list p {
+    display: inline-block;
+    vertical-align: middle; /* محاذاة النص مع الصورة */
+    padding: 0;
+}
+.section2 ul .we-are{
+    padding-left: 80px;
+}
+.section2 ul .social{
+    padding-right:10px;
+}
+.section2 ul .this{
+    padding-left: 60px;
+}
+.our-location{
+    padding-top: 10%;
+    background-color: #f8f8f8;
+}
+.our-location .section3{
+    display: inline-block;
+    width: 47%;
+    text-align: center;
+    vertical-align:top;
+    padding-right:2% ;
+}
+.our-location img{
+    width: 100%;
+}
+.section3-img{
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 1%;
+}
+.section3 h2{
+    font-size: 32px;
+}
+.section4{
+    text-align: center;
+    padding-top: 4%;
+}
+.our-baking .item img{
+    width: 100%;
+}
+.item{
+    padding: 1%;
+    width: 31%;
+    text-align: center;
+    float: left;
+    
+}
+.our-baking .item-2 img{
+    width: 100%;
+}
+.item-2{
+    padding: 1%;
+    width: 31%;
+    text-align: center;
+    float: left;
+    
+}
+.our-baking .item-3 img{
+    width: 100%;
+}
+.item-3{
+    padding: 1%;
+    width: 31%;
+    text-align: center;
+    float: left;
+    
+}
+.contact {
+    padding: 5%;
+    background-color: #f8f8f8;
+    text-align: center; /* يضمن الترتيب الصحيح للعناصر */
+}
+
+.container {
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+
+.section5, .google-mP {
+    display: inline-block;
+    width: 48%; /* كلا العنصرين يأخذان نفس العرض */
+    vertical-align: top;
+}
+
+.section5 h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.contact-details-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-details-list li {
+    margin-bottom: 10px;
+}
+
+.contact-details-list img {
+    width: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    background-color: #8e7754;
+}
+
+.contact-details-list p {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.google-mP iframe {
+    width: 100%;
+}
+.aboutus {
+    background-color: #403D38;
+    color: white;
+    padding: 40px 0;
+}
+
+.section5 {
+  
+}
+
+.column {
+    width: 23%;
+    float: left;
+    padding: 0 1%;
+}
+.column2 {
+    width: 23%;
+    float: left;
+    padding: 0 1%;
+}
+.column3 {
+    width: 23%;
+    float: left;
+    padding: 0 1%;
+}
+
+.section6 h2 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.section6 p {
+    color: #bbb;
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+.section6 .map{
+    background-image: url(./images/contact-details-map.png);
+  background-size: cover;   
+}
+.fain {
+    text-align: center;
+    background-color: #353330;
+    height: 200px; /* لإمكانية التحكم بالمحتوى */
+    padding-top: 50px; /* لتوسيط العناصر عموديًا */
+}
+
+.fain img {
+    width: 30%; /* ضبط حجم الشعار */
+    display: block;
+    margin: 0 auto 10px; /* توسيط الصورة وإضافة مسافة تحتها */
+}
+
+.copright {
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    opacity: 0.8;
+}
+
+
+
+
+
+
+
