@@ -93,26 +93,26 @@ body{
     padding-top: 10%;
 }
 .we-care-list {
-    list-style: none; /* إزالة نقاط القائمة */
+    list-style: none; 
     padding: 0;
     margin: 0;
 }
 
 .we-care-list li {
-    display: block; /* يجعل كل عنصر في سطر منفصل */
-    margin-bottom: 10px; /* مسافة بين العناصر */
+    display: block; 
+    margin-bottom: 10px; 
 
 }
 
 .we-care-list img {
     width: 75px;
     display: inline-block;
-    vertical-align: middle; /* محاذاة الصورة مع النص */
+    vertical-align: middle;
 }
 
 .we-care-list p {
     display: inline-block;
-    vertical-align: middle; /* محاذاة النص مع الصورة */
+    vertical-align: middle; 
     padding: 0;
 }
 .section2 ul .we-are{
@@ -184,7 +184,7 @@ body{
 .contact {
     padding: 5%;
     background-color: #f8f8f8;
-    text-align: center; /* يضمن الترتيب الصحيح للعناصر */
+    text-align: center; 
 }
 
 .container {
@@ -195,7 +195,7 @@ body{
 
 .section5, .google-mP {
     display: inline-block;
-    width: 48%; /* كلا العنصرين يأخذان نفس العرض */
+    width: 48%; 
     vertical-align: top;
 }
 
@@ -236,11 +236,6 @@ body{
     color: white;
     padding: 40px 0;
 }
-
-.section5 {
-  
-}
-
 .column {
     width: 23%;
     float: left;
@@ -276,14 +271,14 @@ body{
 .fain {
     text-align: center;
     background-color: #353330;
-    height: 200px; /* لإمكانية التحكم بالمحتوى */
-    padding-top: 50px; /* لتوسيط العناصر عموديًا */
+    height: 200px; 
+    padding-top: 50px; 
 }
 
 .fain img {
-    width: 30%; /* ضبط حجم الشعار */
+    width: 30%; 
     display: block;
-    margin: 0 auto 10px; /* توسيط الصورة وإضافة مسافة تحتها */
+    margin: 0 auto 10px;
 }
 
 .copright {
