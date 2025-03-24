@@ -261,7 +261,6 @@ body{
 .section6 p {
     color: #bbb;
     font-size: 14px;
-    line-height: 1.6;
     margin-bottom: 10px;
 }
 .section6 .map{
@@ -285,7 +284,6 @@ body{
     text-align: center;
     font-size: 14px;
     color: #fff;
-    opacity: 0.8;
 }
 
 
